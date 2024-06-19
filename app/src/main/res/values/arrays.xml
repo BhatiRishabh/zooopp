@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gearOptions">Manual,Automatic, Semi-Automatic</string-array>
+    <string-array name="CarOptons">Swift, Wagon-r, Nexon, Creta, Punch, Baleno, Seltos, Virtus, Scorpio</string-array>
+    <string-array name="journey_types">Onw-way, Round-Trip</string-array>
+</resources>

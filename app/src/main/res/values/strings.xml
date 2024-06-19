@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zooopp</string>
+    <string name="login">LogIn</string>
+    <string name="password">password\n</string>
+    <string name="username">username</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="close">closebutton\n</string>
+</resources>
